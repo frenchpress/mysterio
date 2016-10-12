@@ -23,6 +23,10 @@
     "backgroundColor": "#556270",
     "foregroundColor": "#c7f464"
   },
+  “Peon”: {
+    "backgroundColor": "#556270",
+    "foregroundColor": "#c7f464"
+  },
   "Three colors": {
     "backgroundColor": "#eee",
     "captionColor": "#515151",
@@ -35,6 +39,16 @@
     "captionLeft": 640,
     "backgroundImage": "subway.jpg",
     "foregroundColor": "#fc0",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+  "Background image with top right text, 101“: {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "Plan9-5-Audiogram.jpg",
+    "foregroundColor": “#ed1c24”,
     "waveBottom": 660,
     "waveTop": 320
   },
