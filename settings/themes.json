@@ -15,6 +15,11 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "tmnt": {
+    "name": "Teenage Mutant Ninja Turtles",
+    "foregroundColor": "green",
+    "backgroundImage": "subway.jpg"
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
@@ -28,7 +33,7 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
-  "Bakground image with top right text": {
+  "Background image with top right text": {
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
