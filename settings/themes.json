@@ -16,12 +16,12 @@
     "captionRight": 1080
   },
   "tmnt": {
-    "name": "Teenage Mutant Ninja Turtles",
+    "name": "Teenage Mutant Sandbox Turtles",
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
+    "backgroundImage": "plan.jpg",
     "foregroundColor": "#fc0",
     "waveBottom": 660,
     "waveTop": 320
