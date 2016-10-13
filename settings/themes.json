@@ -15,14 +15,14 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
-  "tmnt": {
-    "name": "Teenage Mutant Sandbox Turtles",
+  "Sandbox": {
+    "name": "Sandbox",
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
     "backgroundImage": "plan.jpg",
-    "foregroundColor": "#fc0",
+    "foregroundColor": "#f00",
     "waveBottom": 660,
     "waveTop": 320
   },
