@@ -28,23 +28,13 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
-  "Background image with top right text": {
+  "Bakground image with top right text": {
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
     "backgroundImage": "subway.jpg",
     "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
-  },
-  "101“: {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "Plan9-5-Audiogram.jpg",
-    "foregroundColor": “#ed1c24”,
     "waveBottom": 660,
     "waveTop": 320
   },
